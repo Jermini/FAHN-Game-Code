@@ -1,0 +1,28 @@
+Fate At High Noon: PLUS+ Edition (PATCH NOTES)
+﻿
+Game Project: Fate At High Noon
+Creator: Jeremy Cruz/Jixen
+Version: 2.0
+Date: 1/26/26
+
+New Features
+• Second Ending added
+• New Items: 
+	• Skull (needed to achieve second ending)
+	• Secret Artifacts
+	• Color Changes when interacting with signs
+﻿
+Fixes
+• Fixed dialogue issues when interacting with NPCs and certain items
+• Fixed items from duplicating within the inventory
+﻿
+Improvements (of existing features)
+• Improved avatar design (i.e., added hat and changed body structure)
+• Added prompt dialogue in beginning and endings; for ex, prompts user to "press any button to continue/restart"
+• Color changes when interacting with signs
+• Added music throughout WHOLE game except for just one portion.	﻿	﻿
+
+
+Known Bugs
+• Dialogue issues where certain text wouldn't display as intended
+• Items duplicated in inventory unintentionally	﻿
